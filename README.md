@@ -9,3 +9,11 @@ My focus is on delivering digital solutions that are functional, efficient, and 
 Currently, I am continuously improving my skills in programming and software development, and I am open to collaboration opportunities in the technology field.<br>
 
 📫 Feel free to connect with me on www.linkedin.com/in/arifbudimann to share ideas and discuss potential projects. 
+
+###Github Statistic
+    <p align="left">
+    <a href="https://github.com/penuliscode">
+      <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=penuliscode&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+      <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=penuliscode&layout=compact&theme=algolia"/>
+    </a>
+    </p>

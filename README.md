@@ -10,7 +10,7 @@ Currently, I am continuously improving my skills in programming and software dev
 
 📫 Feel free to connect with me on www.linkedin.com/in/arifbudimann to share ideas and discuss potential projects. 
 
-#Github Statistic
+# Github Statistic
 <br>
     <p align="left">
     <a href="https://github.com/Budiman002">

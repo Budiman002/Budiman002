@@ -10,7 +10,8 @@ Currently, I am continuously improving my skills in programming and software dev
 
 📫 Feel free to connect with me on www.linkedin.com/in/arifbudimann to share ideas and discuss potential projects. 
 
-# Github Statistic
+#Github Statistic
+<br>
     <p align="left">
     <a href="https://github.com/Budiman002">
       <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Budiman002&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>

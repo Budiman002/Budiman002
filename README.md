@@ -1,6 +1,6 @@
 # Hello Everyone! 👋
 
-My name is **Arif Budiman**.<br>
+My  name is **Arif Budiman**.<br>
 I am on a journey to become a **Software Engineer** committed to developing applications that create meaningful and positive impact for society.<br>
 
 I have experience participating in various projects and training programs related to **application development**, from building prototypes to evaluating and refining features.  
